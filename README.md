@@ -5,3 +5,5 @@ $ cat /etc/profile.txt
 - I’m looking for collaborate on startup idea...
 
 ```
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=dlintin)
