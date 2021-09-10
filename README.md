@@ -6,8 +6,4 @@ $ cat /etc/profile.txt
 
 ```
 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Dianto)](https://github.com/boomtowndev/ren-backend)
-
-
 ![Profile View Counter](https://komarev.com/ghpvc/?username=dlintin)
