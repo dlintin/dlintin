@@ -5,7 +5,7 @@ $ cat /etc/profile.txt
 - I’m looking for collaborate on startup idea...
 
 ```
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dianto)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Dianto)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=dlintin)
