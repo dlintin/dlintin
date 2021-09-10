@@ -1,6 +1,5 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
 # Bonjour 👋
 ```console
 $ cat /etc/profile.txt 
