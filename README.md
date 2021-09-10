@@ -1,3 +1,6 @@
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 # Bonjour 👋
 ```console
 $ cat /etc/profile.txt 
@@ -6,6 +9,5 @@ $ cat /etc/profile.txt
 
 ```
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=dlintin)
