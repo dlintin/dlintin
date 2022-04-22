@@ -4,7 +4,7 @@
 
 ⚡️ PostgreSQL | MySQL | Sqlite | Mongodb | Redis
 
-⚡️ CI/CD | Ubuntu Server
+⚡️ CI/CD - Github Actions - Jenkins | Docker | Ubuntu Server
 
 ⚡️ AWS | Google Cloud
 
