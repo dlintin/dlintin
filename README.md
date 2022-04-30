@@ -8,4 +8,6 @@
 
 ⚡️ AWS | Google Cloud
 
+🧠  Learnig Go Lang
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=dlintin)
