@@ -1,6 +1,6 @@
 # Hello  👋🏻
 
-⚡️ Python - Django | React - Next.js | PHP - Laravel
+⚡️ Python - Django - Flask | React - Next.js | PHP - Laravel
 
 ⚡️ PostgreSQL | MySQL | Sqlite | Mongodb | Redis
 
