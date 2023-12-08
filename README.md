@@ -10,6 +10,6 @@
 
 ⚡️ AWS | Google Cloud
 
-🧠  Learnig Go Lang and Artificial Intelegence / Machine Learning (Tensorflow)
+🧠  Learnig Nest.js & Next.js
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=dlintin)
